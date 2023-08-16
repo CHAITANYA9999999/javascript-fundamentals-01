@@ -45,7 +45,7 @@
 //arrow function
 
 // const calcage3 = birthYear => 2023 - birthYear;
-// console.log(calcage3(1999)); 
+// console.log(calcage3(1999));
 
 // const yearsUntilRetirement = birthYear => {
 //     const age = 2023 - birthYear;
@@ -128,7 +128,6 @@
 //     //     return 2023 - this.birthYear;
 //     // }
 
-
 //     calcAge: function (){
 //         this.age = 2023 - this.birthYear; //we can also create new propery like this
 //         return this.age;
@@ -139,4 +138,3 @@
 // jonas1['calcAge'];
 
 // console.log(jonas1.age);
-
